@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jazzycodes1215
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning devloping
-- 💞️ I’m looking to collaborate on developing
-- 📫 How to reach me DEVELOP
+- 👋 Hi, I’m @jazzycodes1215, Thanks for visiting.
 
 <!---
 jazzycodes1215/jazzycodes1215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
